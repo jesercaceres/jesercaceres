@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2966&pause=10&color=0B7CF7&random=false&width=435&lines=Welcome+to+my+Github%2C+;where+I+share+my+projects.+;Feel+free+to+explore!)](https://git.io/typing-svg)
+# 👋 Olá
+### Sou Jeser Cáceres, um apaixonado desenvolvedor de software e entusiasta de tecnologia.
+### atualmente trabalho como suporte de TI na Media.Monks. Com um ano de experiência na área, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias
